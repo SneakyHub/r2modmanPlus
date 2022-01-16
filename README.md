@@ -1,3 +1,21 @@
+# Fork of r2modman
+- This repo was forked because we would like to make it easier for community members to use the software!
+
+1. Download the r2modman installer.
+2. Run the installer.
+3. Use the search bar and Navigate to Valheim
+4. Click " Select Game ".
+5. Click " Select Profile ".
+6. To run Modded click " Start Modded ". To run Vanilla click " Start Vanilla ". (We currently run 1 of each so it doesn't matter which one you run)
+7. If you chose modded, you can connect to our Valheim plus server.
+8. If you chose vanilla, you can connect to our Valheim Vanilla server.
+9. Information about the servers are within our discord server. You may join it below!
+10. (Optional) You can navigate to the MODS > Online tab and search and download for mods. If we use any there list will be in our discord below.
+
+[![Discord]](https://discord.gg/kUKachNvSW)
+
+
+
 # r2modman
 
 [![Discord](https://img.shields.io/discord/727304496522461185?label=r2modman%20Discord&style=for-the-badge)](https://discord.gg/jE2zWHY)
