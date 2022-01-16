@@ -1,7 +1,7 @@
 # Fork of r2modman
 - This repo was forked because we would like to make it easier for community members to use the software!
 
-1. Download the r2modman installer.
+1. Download the r2modman installer from here https://raw.githubusercontent.com/SneakyHub/r2modmanPlus/master/download/r2modman%20Setup%203.1.25.exe
 2. Run the installer.
 3. Use the search bar and Navigate to Valheim
 4. Click " Select Game ".
@@ -12,7 +12,7 @@
 9. Information about the servers are within our discord server. You may join it below!
 10. (Optional) You can navigate to the MODS > Online tab and search and download for mods. If we use any there list will be in our discord below.
 
-[![Discord]](https://discord.gg/kUKachNvSW)
+[Click here to join our Discord](https://discord.gg/kUKachNvSW)
 
 
 
